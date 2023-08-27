@@ -1,6 +1,6 @@
 # Desafio Ignite: Conceitos do Node.js
 
-## 💻 Sobre o desafio
+## 📝 Sobre o desafio
 
 Essa será uma aplicação para gerenciar tarefas (em inglês *todos*). Será permitida a criação de um usuário com `name` e `username`, bem como fazer o CRUD de *todos*:
 
@@ -197,6 +197,12 @@ Para que esse teste passe, você não deve permitir excluir um *todo* que não e
 
 `yarn test`
 
-## 📝 Licença
-Esse projeto está sob a licença MIT.
+## 💻 Tecnologias
+- JavaScript
+
+## 📩 Contato
+juliete_dias@outlook.com.br
+
+## 📜 Licença
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
