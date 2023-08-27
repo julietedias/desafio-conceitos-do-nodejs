@@ -197,7 +197,7 @@ Para que esse teste passe, você não deve permitir excluir um *todo* que não e
 
 `yarn test`
 
-## 💻 Tecnologias
+## 💻 Tecnologia
 - JavaScript
 
 ## 📩 Contato
