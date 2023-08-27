@@ -2,7 +2,7 @@
 
 ## 📝 Sobre o desafio
 
-Essa será uma aplicação para gerenciar tarefas (em inglês *todos*). Será permitida a criação de um usuário com `name` e `username`, bem como fazer o CRUD de *todos*:
+Essa será uma aplicação para gerenciar tarefas (*todos*). Será permitida a criação de um usuário com `name` e `username`, bem como fazer o CRUD de *todos*:
 
 - Criar um novo *todo*;
 - Listar todos os *todos*;
